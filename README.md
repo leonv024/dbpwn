@@ -40,4 +40,4 @@ proxychains python3 dbpwn.py
 ```
 
 # Disclaimer
-This script is from my archive and uploaded for research only!
+This script is from my archive and shared for research only!
