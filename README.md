@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 
 Windows:
 ```Shell
-py dbpqn.py
+py dbpwn.py
 ```
 MacOS:
 ```Shell
