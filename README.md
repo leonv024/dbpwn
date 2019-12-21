@@ -2,7 +2,7 @@
 Search for database credentials
 
 ## WARNING
-Usd with VPN or proxychains
+Use with VPN or proxychains
 
 ## Usage:
 
